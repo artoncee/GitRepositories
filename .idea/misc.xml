@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/drawable/corners.xml" value="0.1435" />
         <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/activity_repos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/activity_repos.xml" value="0.264" />
         <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/git_item.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/repo_item.xml" value="0.4" />
+        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/repo_item.xml" value="0.1634078212290503" />
+        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/layout/title_layout.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/sabir/AndroidStudioProjects/GitHubRepositiries/app/src/main/res/menu/repo.xml" value="0.253125" />
       </map>
     </option>
   </component>

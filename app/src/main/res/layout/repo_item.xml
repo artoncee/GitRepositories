@@ -8,7 +8,8 @@
 
     app:cardBackgroundColor="#1A4881E6"
     app:cardCornerRadius="10dp"
-    tools:ignore="MissingConstraints">
+    tools:ignore="MissingConstraints"
+    app:cardElevation="0dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

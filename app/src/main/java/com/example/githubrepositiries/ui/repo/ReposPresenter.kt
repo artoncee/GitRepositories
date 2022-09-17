@@ -13,6 +13,5 @@ class ReposPresenter : MvpPresenter<IReposActivity>() {
     override fun onFirstViewAttach() {
         reposList=repos
         viewState.showRepos(reposList)
-
     }
 }
